@@ -13,3 +13,5 @@ Discrepancy found in 'Current Liabilities': Computed=937527.65, Reported=1014525
 Bonus tiny discrepancy in 'ASSETS': Computed=13318970.870000001, Reported=13318970.87 (this was ignored for the purpose of this excerise)
 # If I had more time
 I would build some unit tests to ensure the script is working as intended on other test files. Add other data validation checkpoints, for example, making sure there are no unexpected positive or negative values or that there are no duplicate accounts.
+
+I also would've spent more time on the ERD. I would've been able to think about establishing foreign key relationships, perhaps implementing a star schema, or really think about the best way to model the data.
